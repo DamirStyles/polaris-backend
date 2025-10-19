@@ -44,7 +44,11 @@ def create_app(config_name=None):
     initialize_analyzers(app)
     
     if app.config.get('CORS_ENABLED', True):
-        CORS(app, origins=app.config.get('CORS_ORIGINS', '*'))
+        CORS(app, origins=[
+            'http://localhost:3000',      # Local development
+            'https://*.vercel.app',        # All Vercel deployments
+            'https://vercel.app'           # Vercel domains
+        ])
     
     app.register_blueprint(api)
     register_health_routes(app)
