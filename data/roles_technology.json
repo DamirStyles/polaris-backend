@@ -1,0 +1,797 @@
+{
+  "industry": "Technology",
+  "roles": [
+    {
+      "name": "AEM Developer",
+      "technical": 8,
+      "creative": 5,
+      "business": 6,
+      "customer": 6,
+      "color": "#2563eb"
+    },
+    {
+      "name": "Android Developer",
+      "technical": 8,
+      "creative": 7,
+      "business": 6,
+      "customer": 4,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Angular Developer",
+      "technical": 9,
+      "creative": 5,
+      "business": 5,
+      "customer": 3,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Appian Developer",
+      "technical": 7,
+      "creative": 7,
+      "business": 7,
+      "customer": 8,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "Application Developer",
+      "technical": 8,
+      "creative": 7,
+      "business": 4,
+      "customer": 5,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Big Data Engineer",
+      "technical": 10,
+      "creative": 6,
+      "business": 4,
+      "customer": 2,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Business Analyst",
+      "technical": 6,
+      "creative": 7,
+      "business": 9,
+      "customer": 8,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Business Intelligence Developer",
+      "technical": 8,
+      "creative": 7,
+      "business": 8,
+      "customer": 7,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Computer Support Specialist",
+      "technical": 5,
+      "creative": 3,
+      "business": 3,
+      "customer": 8,
+      "color": "#2563eb"
+    },
+    {
+      "name": "Cyber Security Analyst",
+      "technical": 9,
+      "creative": 7,
+      "business": 6,
+      "customer": 5,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "Cyber Security Engineer",
+      "technical": 9,
+      "creative": 6,
+      "business": 4,
+      "customer": 3,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "Data Analyst",
+      "technical": 7,
+      "creative": 8,
+      "business": 9,
+      "customer": 7,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Data Engineer",
+      "technical": 9,
+      "creative": 7,
+      "business": 7,
+      "customer": 4,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "Data Scientist",
+      "technical": 9,
+      "creative": 9,
+      "business": 6,
+      "customer": 5,
+      "color": "#2563eb"
+    },
+    {
+      "name": "Database Administrator",
+      "technical": 8,
+      "creative": 4,
+      "business": 6,
+      "customer": 4,
+      "color": "#2563eb"
+    },
+    {
+      "name": "Database Analyst",
+      "technical": 7,
+      "creative": 6,
+      "business": 6,
+      "customer": 5,
+      "color": "#2563eb"
+    },
+    {
+      "name": "Database Consultant",
+      "technical": 9,
+      "creative": 7,
+      "business": 8,
+      "customer": 7,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Database Developer",
+      "technical": 9,
+      "creative": 5,
+      "business": 3,
+      "customer": 4,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "Database Engineer",
+      "technical": 10,
+      "creative": 9,
+      "business": 6,
+      "customer": 3,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "Desktop Support Engineer",
+      "technical": 6,
+      "creative": 3,
+      "business": 4,
+      "customer": 8,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "DevOps Engineer",
+      "technical": 9,
+      "creative": 8,
+      "business": 5,
+      "customer": 3,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "Director of IT",
+      "technical": 7,
+      "creative": 8,
+      "business": 9,
+      "customer": 7,
+      "color": "#2563eb"
+    },
+    {
+      "name": "Field Service Technician",
+      "technical": 7,
+      "creative": 2,
+      "business": 4,
+      "customer": 9,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Front End Developer",
+      "technical": 7,
+      "creative": 8,
+      "business": 5,
+      "customer": 5,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "Front End Engineer",
+      "technical": 7,
+      "creative": 8,
+      "business": 4,
+      "customer": 6,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "Full Stack Developer",
+      "technical": 9,
+      "creative": 7,
+      "business": 5,
+      "customer": 5,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "Full Stack Java Developer",
+      "technical": 9,
+      "creative": 6,
+      "business": 6,
+      "customer": 5,
+      "color": "#2563eb"
+    },
+    {
+      "name": "Hadoop Developer",
+      "technical": 9,
+      "creative": 7,
+      "business": 5,
+      "customer": 2,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Help Desk Analyst",
+      "technical": 5,
+      "creative": 4,
+      "business": 2,
+      "customer": 9,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Help Desk Technician",
+      "technical": 6,
+      "creative": 3,
+      "business": 3,
+      "customer": 8,
+      "color": "#2563eb"
+    },
+    {
+      "name": "iOS Developer",
+      "technical": 8,
+      "creative": 7,
+      "business": 4,
+      "customer": 5,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "IT Administrator",
+      "technical": 7,
+      "creative": 3,
+      "business": 3,
+      "customer": 7,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "IT Analyst",
+      "technical": 6,
+      "creative": 4,
+      "business": 4,
+      "customer": 6,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "IT Auditor",
+      "technical": 7,
+      "creative": 6,
+      "business": 9,
+      "customer": 7,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "IT Business Analyst",
+      "technical": 6,
+      "creative": 7,
+      "business": 8,
+      "customer": 8,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "IT Compliance Analyst",
+      "technical": 6,
+      "creative": 3,
+      "business": 7,
+      "customer": 5,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "IT Coordinator",
+      "technical": 5,
+      "creative": 4,
+      "business": 5,
+      "customer": 7,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "IT Director",
+      "technical": 6,
+      "creative": 8,
+      "business": 9,
+      "customer": 7,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "IT Manager",
+      "technical": 5,
+      "creative": 7,
+      "business": 8,
+      "customer": 7,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "IT Program Manager",
+      "technical": 5,
+      "creative": 7,
+      "business": 9,
+      "customer": 8,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "IT Project Manager",
+      "technical": 6,
+      "creative": 7,
+      "business": 8,
+      "customer": 7,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "IT Security Analyst",
+      "technical": 8,
+      "creative": 6,
+      "business": 5,
+      "customer": 4,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "IT Security Consultant",
+      "technical": 8,
+      "creative": 7,
+      "business": 8,
+      "customer": 7,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "IT Security Engineer",
+      "technical": 8,
+      "creative": 7,
+      "business": 8,
+      "customer": 5,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "IT Support Specialist",
+      "technical": 5,
+      "creative": 4,
+      "business": 3,
+      "customer": 9,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Infrastructure Engineer",
+      "technical": 9,
+      "creative": 5,
+      "business": 4,
+      "customer": 2,
+      "color": "#2563eb"
+    },
+    {
+      "name": "Information Security Analyst",
+      "technical": 8,
+      "creative": 7,
+      "business": 7,
+      "customer": 5,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Information Security Engineer",
+      "technical": 9,
+      "creative": 7,
+      "business": 4,
+      "customer": 3,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "Java Developer",
+      "technical": 9,
+      "creative": 5,
+      "business": 4,
+      "customer": 3,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Java Backend Developer",
+      "technical": 9,
+      "creative": 6,
+      "business": 5,
+      "customer": 3,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "JavaScript Developer",
+      "technical": 9,
+      "creative": 5,
+      "business": 5,
+      "customer": 2,
+      "color": "#2563eb"
+    },
+    {
+      "name": "Linux System Administrator",
+      "technical": 9,
+      "creative": 5,
+      "business": 3,
+      "customer": 4,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "Machine Learning Engineer",
+      "technical": 10,
+      "creative": 8,
+      "business": 5,
+      "customer": 3,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Mobile Developer",
+      "technical": 9,
+      "creative": 7,
+      "business": 5,
+      "customer": 3,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "MuleSoft Developer",
+      "technical": 8,
+      "creative": 6,
+      "business": 7,
+      "customer": 5,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "Network Administrator",
+      "technical": 8,
+      "creative": 3,
+      "business": 3,
+      "customer": 5,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "Network Engineer",
+      "technical": 8,
+      "creative": 5,
+      "business": 3,
+      "customer": 5,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "Network Security Engineer",
+      "technical": 9,
+      "creative": 7,
+      "business": 6,
+      "customer": 3,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Oracle Database Administrator",
+      "technical": 9,
+      "creative": 3,
+      "business": 4,
+      "customer": 4,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "PHP Developer",
+      "technical": 7,
+      "creative": 6,
+      "business": 4,
+      "customer": 3,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Pega Developer",
+      "technical": 7,
+      "creative": 7,
+      "business": 7,
+      "customer": 8,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Product Manager",
+      "technical": 5,
+      "creative": 9,
+      "business": 10,
+      "customer": 8,
+      "color": "#2563eb"
+    },
+    {
+      "name": "Programmer Analyst",
+      "technical": 7,
+      "creative": 6,
+      "business": 7,
+      "customer": 6,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Python Developer",
+      "technical": 8,
+      "creative": 6,
+      "business": 4,
+      "customer": 3,
+      "color": "#2563eb"
+    },
+    {
+      "name": "QA Analyst",
+      "technical": 6,
+      "creative": 5,
+      "business": 5,
+      "customer": 3,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "QA Engineer",
+      "technical": 8,
+      "creative": 6,
+      "business": 3,
+      "customer": 4,
+      "color": "#2563eb"
+    },
+    {
+      "name": "RPA Developer",
+      "technical": 7,
+      "creative": 8,
+      "business": 8,
+      "customer": 7,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "React Developer",
+      "technical": 9,
+      "creative": 4,
+      "business": 3,
+      "customer": 3,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "SOC Analyst",
+      "technical": 8,
+      "creative": 6,
+      "business": 4,
+      "customer": 5,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "SQL Developer",
+      "technical": 8,
+      "creative": 5,
+      "business": 6,
+      "customer": 4,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "SQL Server Database Administrator",
+      "technical": 9,
+      "creative": 4,
+      "business": 5,
+      "customer": 2,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Salesforce Administrator",
+      "technical": 7,
+      "creative": 6,
+      "business": 8,
+      "customer": 8,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "Salesforce Developer",
+      "technical": 8,
+      "creative": 6,
+      "business": 7,
+      "customer": 5,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Scrum Master",
+      "technical": 3,
+      "creative": 8,
+      "business": 7,
+      "customer": 9,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Security Analyst",
+      "technical": 9,
+      "creative": 7,
+      "business": 6,
+      "customer": 5,
+      "color": "#2563eb"
+    },
+    {
+      "name": "Security Engineer",
+      "technical": 9,
+      "creative": 8,
+      "business": 5,
+      "customer": 4,
+      "color": "#2563eb"
+    },
+    {
+      "name": "ServiceNow Developer",
+      "technical": 8,
+      "creative": 7,
+      "business": 7,
+      "customer": 5,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "Site Reliability Engineer",
+      "technical": 9,
+      "creative": 7,
+      "business": 5,
+      "customer": 3,
+      "color": "#2563eb"
+    },
+    {
+      "name": "Software Architect",
+      "technical": 10,
+      "creative": 8,
+      "business": 7,
+      "customer": 4,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Software Consultant",
+      "technical": 8,
+      "creative": 7,
+      "business": 8,
+      "customer": 9,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "Software Developer",
+      "technical": 9,
+      "creative": 6,
+      "business": 4,
+      "customer": 3,
+      "color": "#2563eb"
+    },
+    {
+      "name": "Software Engineer",
+      "technical": 9,
+      "creative": 6,
+      "business": 5,
+      "customer": 3,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Solutions Architect",
+      "technical": 9,
+      "creative": 8,
+      "business": 8,
+      "customer": 7,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Support Engineer",
+      "technical": 8,
+      "creative": 7,
+      "business": 4,
+      "customer": 9,
+      "color": "#2563eb"
+    },
+    {
+      "name": "System Administrator",
+      "technical": 8,
+      "creative": 4,
+      "business": 3,
+      "customer": 6,
+      "color": "#2563eb"
+    },
+    {
+      "name": "Systems Analyst",
+      "technical": 8,
+      "creative": 7,
+      "business": 8,
+      "customer": 7,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "Systems Engineer",
+      "technical": 9,
+      "creative": 7,
+      "business": 6,
+      "customer": 5,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Technical Lead",
+      "technical": 8,
+      "creative": 8,
+      "business": 7,
+      "customer": 6,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Technical Project Manager",
+      "technical": 7,
+      "creative": 7,
+      "business": 8,
+      "customer": 9,
+      "color": "#1d4ed8"
+    },
+    {
+      "name": "Technical Support Engineer",
+      "technical": 7,
+      "creative": 4,
+      "business": 5,
+      "customer": 9,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "Technical Writer",
+      "technical": 6,
+      "creative": 8,
+      "business": 6,
+      "customer": 7,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Test Engineer",
+      "technical": 8,
+      "creative": 5,
+      "business": 4,
+      "customer": 6,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "UI Developer",
+      "technical": 9,
+      "creative": 9,
+      "business": 5,
+      "customer": 5,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "UI/UX Designer",
+      "technical": 6,
+      "creative": 9,
+      "business": 7,
+      "customer": 8,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "UX Designer",
+      "technical": 5,
+      "creative": 10,
+      "business": 7,
+      "customer": 9,
+      "color": "#60a5fa"
+    },
+    {
+      "name": "UX Researcher",
+      "technical": 4,
+      "creative": 8,
+      "business": 7,
+      "customer": 9,
+      "color": "#93c5fd"
+    },
+    {
+      "name": "Web Designer",
+      "technical": 5,
+      "creative": 9,
+      "business": 6,
+      "customer": 7,
+      "color": "#2563eb"
+    },
+    {
+      "name": "Web Developer",
+      "technical": 8,
+      "creative": 7,
+      "business": 6,
+      "customer": 4,
+      "color": "#2563eb"
+    },
+    {
+      "name": "WordPress Developer",
+      "technical": 6,
+      "creative": 7,
+      "business": 4,
+      "customer": 5,
+      "color": "#1d4ed8"
+    }
+  ]
+}
