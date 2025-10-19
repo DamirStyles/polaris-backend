@@ -45,10 +45,11 @@ def create_app(config_name=None):
     
     if app.config.get('CORS_ENABLED', True):
         CORS(app, origins=[
-            'http://localhost:3000',      # Local development
-            'https://*.vercel.app',        # All Vercel deployments
-            'https://vercel.app'           # Vercel domains
-        ])
+            'http://localhost:3000',                           # Local development
+            'https://polaris-frontend-six.vercel.app',         # Production Vercel URL
+            'https://*.vercel.app',                            # All Vercel preview deployments
+            'https://vercel.app'                               # Vercel domains
+        ], supports_credentials=True)
     
     app.register_blueprint(api)
     register_health_routes(app)
