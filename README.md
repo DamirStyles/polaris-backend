@@ -54,9 +54,3 @@ python app.py
 - `routes.py` - API handlers
 - `services/` - Business logic
 - `data/` - Tech roles database
-
-## Author
-
-**Damir Styles**
-- GitHub: [@DamirStyles](https://github.com/DamirStyles)
-- Live Demo: https://polaris-frontend-six.vercel.app
